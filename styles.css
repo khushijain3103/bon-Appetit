@@ -298,6 +298,7 @@
     border: 1px solid #fafafa;
    border-radius: 20px;
    width: 50rem;
+   box-shadow: 1px 1px 6px 3px #dddcdc85
     
 }
 .nextRow:hover{
